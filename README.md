@@ -13,4 +13,3 @@ This is a spooky Halloween-themed 8-ball app that generates random responses whe
 - **Random Class**: Used for generating random responses.
 - Optional: **JavaFX** or **Swing**: If you built a GUI for the app.
 
-## Example of Output
